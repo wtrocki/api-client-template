@@ -4,7 +4,7 @@ name: Generate Client
 on:
  push:
   branches:
-    - sdkv2
+    - main
 
 jobs:
   generate-client:
