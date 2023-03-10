@@ -10,7 +10,7 @@ Folder contains scripts, generators and other files required to generate Golang 
 make fetch_openapi
 ```
 
-### Generating Go SDK
+### Generating SDK
 
 ```
 make generate_client
