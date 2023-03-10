@@ -24,3 +24,6 @@ https://openapi-generator.tech/docs/generators/
 5. Edit tools/config/config.yaml file specifying generator name. Consider adding generator propoperties.
 Example: 
 https://github.com/wtrocki/api-client-template/blob/main/tools/config/config.yaml
+
+## Why transformer?
+OpenAPI file can be simplified in order to generate user-friendly code. Transformer can be used to modify openapi file to meet some needs of specific generator.
