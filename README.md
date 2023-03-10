@@ -18,6 +18,9 @@ See [tools](./tools) for more info.
 
 1. Use this template to create new repository.
 2. It will autocreate PRs with openapi and client updates using github actions.
-3. Pick one of the availabe generators from OpenAPI generator
-4. Edit tools/config/config.yaml file specifying generator name. Consider adding generator propoperties.
+3. Pick one of the availabe generators from OpenAPI generator:
+https://openapi-generator.tech/docs/generators/
 
+5. Edit tools/config/config.yaml file specifying generator name. Consider adding generator propoperties.
+Example: 
+https://github.com/wtrocki/api-client-template/blob/main/tools/config/config.yaml
